@@ -19,10 +19,10 @@
 
 <h2>Connect with Me</h2>
 <p align="left">
-  <a href="https://twitter.com/devtwit" target="_blank" rel="noreferrer">
+  <a href="https://twitter.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40"/>
   </a>
-  <a href="https://fb.com/devfb" target="_blank" rel="noreferrer">
+  <a href="https://fb.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40"/>
   </a>
 </p>
