@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [my repository](https://github.com/Sewlz?tab=repositories)
 
-- 📫 How to reach me **@Sewlz**
+- 📫 How to reach me [**@Sewlz**](https://github.com/Sewlz)
 
 <h2>Connect with Me</h2>
 <p align="left">
