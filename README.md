@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://i.ytimg.com/vi/0MUifejL51g/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGFMgZChlMA8=&rs=AOn4CLCLE7ukESvirLkhCL43JD2Z627xJw" alt="Banner">
+  <img width="100%" src="https://files.catbox.moe/18ucf6.gif" alt="Banner">
 </div>
 <h1 align="left">Hey 👋, I'm Sewlz</h1>
 <h3 align="left">A passionate and versatile software developer</h3>
