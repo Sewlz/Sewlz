@@ -11,7 +11,7 @@
 </table>
 <h2>About Me</h2>
 
-- 🌱 I’m currently learning **ReactJs**, **MongoDB**, **SocketIO**
+- 🌱 I’m currently learning **ReactJs**
 
 - 👨‍💻 All of my projects are available at [my repository](https://github.com/Sewlz?tab=repositories)
 
