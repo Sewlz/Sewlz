@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [my repository](https://github.com/Sewlz?tab=repositories)
 
-- 📫 How to reach me [**@Sewlz**](https://github.com/Sewlz)
+<!-- - 📫 How to reach me [**@Sewlz**](https://github.com/Sewlz)
 
 <h2>Connect with Me</h2>
 <p align="left">
@@ -25,7 +25,7 @@
   <a href="https://fb.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40"/>
   </a>
-</p>
+</p> -->
 <h2>Languages and Tools</h2>
 <p>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
