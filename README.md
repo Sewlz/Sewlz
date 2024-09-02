@@ -2,7 +2,7 @@
   <img width="100%" src="https://github.com/Sewlz/Sewlz/blob/main/banner.gif" alt="Banner">
 </div>
 <h1 align="left">Hey 👋, I'm Sewlz</h1>
-<h3 align="left">A passionate and versatile software developer</h3>
+<h3 align="left">A software developer</h3>
 <table>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=sewlz&show_icons=true&locale=en&theme=nord" alt="GitHub Stats" /></td>
