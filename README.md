@@ -1,6 +1,6 @@
-<div align="center">
+<!-- <div align="center">
   <img width="100%" src="https://github.com/Sewlz/Sewlz/blob/main/banner.gif" alt="Banner">
-</div>
+</div> -->
 <h1 align="left">Sewlz's Github Stats</h1>
 
 ![Profile views](https://komarev.com/ghpvc/?username=yourusername&color=blue&style=for-the-badge)
