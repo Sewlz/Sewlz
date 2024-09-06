@@ -1,8 +1,10 @@
 <div align="center">
   <img width="100%" src="https://github.com/Sewlz/Sewlz/blob/main/banner.gif" alt="Banner">
 </div>
-<h1 align="left">Hey 👋, I'm Sewlz</h1>
-<h3 align="left">A software developer</h3>
+<h1 align="left">Sewlz's Github Stats</h1>
+
+![Profile views](https://komarev.com/ghpvc/?username=yourusername&color=blue&style=for-the-badge)
+
 <table>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=sewlz&show_icons=true&locale=en&theme=nord" alt="GitHub Stats" /></td>
@@ -11,21 +13,16 @@
 </table>
 <h2>About Me</h2>
 
-- 🌱 I’m currently learning **ReactJs**
-
-- 👨‍💻 All of my projects are available at [my repository](https://github.com/Sewlz?tab=repositories)
-
-<!-- - 📫 How to reach me [**@Sewlz**](https://github.com/Sewlz)
+<p>not an engineer</p>
 
 <h2>Connect with Me</h2>
+
 <p align="left">
-  <a href="https://twitter.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40"/>
-  </a>
-  <a href="https://fb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40"/>
-  </a>
-</p> -->
+  
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/yourprofile)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
+
+</p>
 <h2>Languages and Tools</h2>
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
