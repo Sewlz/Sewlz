@@ -1,24 +1,9 @@
-<!-- <div align="center">
-  <img width="100%" src="https://github.com/Sewlz/Sewlz/blob/main/banner.gif" alt="Banner">
-</div> -->
-<h1 align="left">Sewlz's Github Stats</h1>
-
-![Profile views](https://komarev.com/ghpvc/?username=Sewlz&color=blue&style=for-the-badge)
-
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=sewlz&show_icons=true&locale=en&theme=nord" alt="GitHub Stats" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sewlz&show_icons=true&locale=en&layout=compact&theme=nord" alt="sewlz" /></td>
-  </tr>
-</table>
 <h2>About Me</h2>
 
-<p>not an engineer</p>
+<p>trying to do better</p>
 
 <h2>Connect with Me</h2>
 
-<p align="left">
-  
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/yourprofile)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
 
@@ -43,9 +28,24 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+
+<h2>Sewlz's Github Stats</h2> 
+
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=Sewlz&show_icons=true&theme=radical" alt="GitHub stats" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sewlz&layout=compact&theme=radical" alt="Top Langs" /></td>
+  </tr>
+</table>
+
+---
+![Profile views](https://komarev.com/ghpvc/?username=Sewlz&color=blue&style=for-the-badge) 
 <!--
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+<div align="center">
+  <img width="100%" height="500px" src="https://github.com/Sewlz/Sewlz/blob/main/banner.gif" alt="Banner">
+</div> 
 -->
 
