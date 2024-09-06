@@ -3,7 +3,7 @@
 </div> -->
 <h1 align="left">Sewlz's Github Stats</h1>
 
-![Profile views](https://komarev.com/ghpvc/?username=yourusername&color=blue&style=for-the-badge)
+![Profile views](https://komarev.com/ghpvc/?username=Sewlz&color=blue&style=for-the-badge)
 
 <table>
   <tr>
